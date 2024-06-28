@@ -1,1 +1,3 @@
 https://ap1.cloudguest.central.arubanetworks.com/portal/scope.cust-8023314e03ea11ed8fe90ed3d925299a/cda-user-portal/passpoint
+
+https://apacsouth.cloudguest.central.arubanetworks.com/portal/scope.cust-70775a701fbf11efa60132c757b3c1bd/cda-user-portal/passpoint
